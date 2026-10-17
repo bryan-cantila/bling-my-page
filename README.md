@@ -1,6 +1,6 @@
 # Bling My Page
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: devuvo Community](https://img.shields.io/badge/license-devuvo_Community-blue.svg)](LICENSE)
 [![Live demo](https://img.shields.io/badge/demo-live-green.svg)](https://bryan-cantila.github.io/bling-my-page/)
 [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey.svg)](index.html)
 
@@ -45,4 +45,4 @@ Single self-contained file, zero dependencies, system font stacks only. Extracte
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**Free to use — just credit devuvo.** Personal, educational, and non-commercial use is free, provided you give visible credit (e.g. "Created by devuvo" with a link to https://www.devuvo.com). Using it for business or income-generating purposes? Notify devuvo first at admin@devuvo.com. See [LICENSE](LICENSE) for the full terms.
