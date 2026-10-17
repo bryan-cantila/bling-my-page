@@ -5,6 +5,7 @@
 [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey.svg)](index.html)
 
 ![Bling My Page studio](docs/studio.png)
+![Bling My Page import screen](docs/import.png)
 
 Paste a website URL, and Bling My Page extracts its design DNA — title, headings, copy, images, colors, fonts — then lets you redesign it with 22 design themes and 12 color palettes in a live preview. One click on **Auto redesign** generates three variants (two light, one dark) with a rationale for each pick. Export the result as a standalone HTML file.
 

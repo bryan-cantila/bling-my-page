@@ -26,6 +26,7 @@ input:focus,textarea:focus{outline:2px solid var(--acc);border-color:var(--acc)}
 .topbar{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:16px;padding:10px 18px;background:rgba(11,14,20,.94);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:17px;white-space:nowrap}
 .brand svg{width:26px;height:26px}
+.brand img{width:34px;height:34px;border-radius:9px}
 .brand small{display:block;font-size:10px;font-weight:600;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase}
 .steps{display:flex;gap:4px;margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px}
 .step{display:flex;align-items:center;gap:8px;border:0;background:transparent;color:var(--muted);font-weight:600;font-size:13px;padding:8px 16px;border-radius:999px;white-space:nowrap}
@@ -158,8 +159,8 @@ input:focus,textarea:focus{outline:2px solid var(--acc);border-color:var(--acc)}
 <body>
 <header class="topbar">
   <div class="brand">
-    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 2l2.4 7.2H22l-6 4.6 2.3 7.2-6.3-4.5-6.3 4.5L8 13.8 2 9.2h7.6L12 2z" fill="#7a5cff"/><path d="M12 5.5l1.2 3.8h4l-3.2 2.4 1.2 3.8-3.2-2.3-3.2 2.3 1.2-3.8-3.2-2.4h4l1.2-3.8z" fill="#39ff88"/></svg>
-    <div>Bling My Page<small>Website redesigner</small></div>
+    <img src="assets/logo.png" alt="Bling My Page logo">
+    <div>Bling My Page<small>Website redesigner · Created by devuvo</small></div>
   </div>
   <nav class="steps" aria-label="Steps">
     <button class="step active" data-step="1"><span class="n">1</span><span class="lbl">Import</span></button>
